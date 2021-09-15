@@ -25,8 +25,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<!---
-kasim393/kasim393 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img src="https://github-readme-stats.vercel.app/api?username=kasim393&show_icons=true&theme=gotham" alt="kasim393" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kasim393&show_icons=true&theme=tokyonight " alt="kasim393" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim393&layout=compact&theme=tokyonight " alt="kasim393" />
