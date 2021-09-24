@@ -28,3 +28,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=kasim393&show_icons=true&theme=tokyonight " alt="kasim393" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim393&layout=compact&theme=tokyonight " alt="kasim393" />
+
+![](https://komarev.com/ghpvc/?username=kasim393&style=flat-square&color=38bdae)
