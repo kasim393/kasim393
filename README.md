@@ -26,7 +26,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kasim393&show_icons=true&theme=tokyonight " alt="kasim393" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim393&layout=compact&theme=tokyonight " alt="kasim393" />
+## 📈 My GitHub Stats
+### GitHub Stars
+
+![Kasim's Github Stats](https://github-readme-stats.vercel.app/api?username=kasim393&show_icons=true&theme=radical)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasim393&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Streak
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kasim393&theme=highcontrast&hide_border=true" alt="kasim393" />
+
+
 
 ![](https://komarev.com/ghpvc/?username=kasim393&style=flat-square&color=38bdae)
